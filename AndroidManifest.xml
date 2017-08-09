@@ -164,7 +164,6 @@
             android:allowBackup="false"
             android:supportsRtl="true"
             android:usesCleartextTraffic="true"
-            android:defaultToDeviceProtectedStorage="true"
             android:directBootAware="true">
 
         <provider android:name="IccProvider"
